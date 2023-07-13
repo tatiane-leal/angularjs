@@ -24,6 +24,9 @@ angularApp.controller("mainController", [
       {
         rulename: "Must be cool",
       },
+      {
+        rulename: "Must be interesting",
+      },
     ];
   },
 ]);
